@@ -3,7 +3,7 @@
 Summary:	Sirius streaming radio player
 Name:		sipie
 Version:	0.1196144357
-Release:	%mkrel 1
+Release:	%mkrel 2
 Source0:	http://downloads.sourceforge.net/%{name}/%{oname}-%{version}.tar.gz
 License:	GPLv2
 Group:		Sound

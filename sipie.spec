@@ -7,7 +7,7 @@ Release:	%mkrel 3
 Source0:	http://downloads.sourceforge.net/%{name}/%{oname}-%{version}.tar.gz
 License:	GPLv2
 Group:		Sound
-URL:		http://sipie.sourceforge.net/
+URL:		https://sipie.sourceforge.net/
 BuildArch:	noarch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	python
